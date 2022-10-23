@@ -1,0 +1,181 @@
+--- STARTUP ---
+Logging started
+Application version: 20.04.26.0
+Command line:  X:\Game Emulators\Emulators\Sega Genesis\Sonic 3 AIR\Sonic3AIR.exe
+App data path: C:\Users\Wonders\AppData\Roaming/Sonic3AIR/
+Initializing configuration
+Loading configuration
+Loading settings
+Using opengl-full renderer
+File system setup
+System initialization...
+Video initialization...
+Loading application icon...
+Setup of OpenGL attributes...
+Creating window...
+Retrieving actual window size...
+Creating OpenGL context...
+Vsync setup...
+GLEW initialization...
+Setting OpenGL defaults...
+Upscaler startup
+Loaded shader 'data/shader/simple_rect_textured.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/upscaler_soft.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/upscaler_soft.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/upscaler_xbrz-freescale-pass0.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/upscaler_xbrz-freescale-pass1.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/upscaler_hq2x.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Setting window icon (Windows)...
+Setting window icon from loaded bitmap...
+Input initialization...
+Controller #1: "Xbox One Elite Controller"
+{
+	"Up": [ "Axis2", "Pov0" ],
+	"Down": [ "Axis3", "Pov2" ],
+	"Left": [ "Axis0", "Pov3" ],
+	"Right": [ "Axis1", "Pov1" ],
+	"A": [ "Button0" ],
+	"B": [ "Button1" ],
+	"X": [ "Button2" ],
+	"Y": [ "Button3" ],
+	"Start": [ "Button7", "Button10" ],
+	"Back": [ "Button6" ]
+}
+
+Startup of ControlsIn
+Loading ROM...
+Mod manager initialization...
+Audio initialization...
+Startup of AudioOut
+Resource cache loading...
+Persistent data loading...
+Startup of VideoOut
+VideoOut: Loading sprites
+VideoOut: Setup of game screen
+VideoOut: Creating render parts
+VideoOut: Creating hardware renderer
+VideoOut: Renderer initialization
+Loaded shader 'data/shader/simple_copy_screen.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/simple_rect_colored.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/simple_rect_overdraw.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/postfx_blur.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/render_plane.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/render_plane.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/render_plane.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/render_plane.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/render_sprite_vdp.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/render_sprite_palette.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/render_sprite_component.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Loaded shader 'data/shader/debugdraw_plane.shader' with output:
+Compiling Vertex Shader...
+
+Compiling Fragment Shader...
+
+
+Application startup successful
+Simulation startup
+Setup of EmulatorInterface
+Loading scripts
+Runtime environment ready
+
+--- MAIN LOOP ---
+Starting main application loop
+Adding game view
+Creating game screen texture
+Adding game app instance
+Application initialization complete
+Start of first application update call
+End of first application render call
+Start of first application render call
+First present screen call
+End of first application render call
+Ready to go
+
+--- SHUTDOWN ---
+Simulation shutdown
+System shutdown
